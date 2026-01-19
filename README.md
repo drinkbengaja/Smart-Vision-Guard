@@ -80,3 +80,46 @@ Alat ini membantu membentuk kebiasaan melihat layar dengan jarak dan pencahayaan
 ---
 
 ## Struktur File
+Smart-Vision-Guard/
+│
+├── smart_vision_guard.ino
+├── README.md
+└── skematik/
+└── skematik_rangkaian.png
+
+
+---
+
+## Video Demonstrasi
+Video simulasi dan demo alat diunggah ke YouTube dengan konsep iklan:
+- Menampilkan permasalahan kebiasaan melihat layar terlalu dekat
+- Menunjukkan solusi menggunakan Smart Vision Guard
+
+Link video tersedia pada description box YouTube.
+
+---
+
+## Skematik Rangkaian
+Skematik rangkaian dibuat menggunakan aplikasi simulasi dan tersedia dalam Google Drive.  
+Link skematik dicantumkan pada deskripsi video YouTube.
+
+---
+
+## Anggota Kelompok
+- SAMSUL HUDA (23305110  )
+- MUHAMMAD NAUFAL AL RAJAB (2330511074)
+- MOHAMAD ZULFIKAR FAUZI (2330511086)
+- INDRA (2330511069)
+- BAGAS IQBAL WIDJANARKO (2330511065)
+
+---
+
+## Kesimpulan
+Smart Vision Guard merupakan alat mikrokontroler sederhana namun bermanfaat yang membantu menjaga kesehatan mata dengan cara mengontrol jarak pandang dan pencahayaan ruangan secara otomatis. Proyek ini memenuhi kriteria tugas mikrokontroler dari segi fungsi, kelengkapan, dan penerapan langsung.
+
+---
+
+
+
+
+
