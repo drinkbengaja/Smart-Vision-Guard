@@ -79,17 +79,6 @@ Alat ini membantu membentuk kebiasaan melihat layar dengan jarak dan pencahayaan
 
 ---
 
-## Struktur File
-Smart-Vision-Guard/
-│
-├── smart_vision_guard.ino
-├── README.md
-└── skematik/
-└── skematik_rangkaian.png
-
-
----
-
 ## Video Demonstrasi
 Video simulasi dan demo alat diunggah ke YouTube dengan konsep iklan:
 - Menampilkan permasalahan kebiasaan melihat layar terlalu dekat
